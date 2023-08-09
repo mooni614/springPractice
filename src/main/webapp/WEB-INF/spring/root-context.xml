@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- Root Context: defines shared resources visible to all other web components -->
+
+	<!-- spring이 시작될 때 최초로 호출되는 xml파일, 필요한 resource나 bean을 생성할 수 있다. -->
+	<!-- 용도: DB관련 세팅, mybatis세팅, 초기 한번만 필요한 설정의 xml을 정의하는 곳 -->
+
+
+
+</beans>
+
